@@ -1,0 +1,2 @@
+# qemu
+Arquitectura de harware 
